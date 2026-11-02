@@ -1,0 +1,8 @@
+Nguyen Van An;24TTH;8.5
+Tran Thi Binh;24TTH;4.0
+Le Van Chi;25KDL;9.0
+Pham Thu Dung;25KDL;6.5
+Hoang Minh Giang;24TTH;5.0
+Vo Thi Ha;25KDL;3.5
+Do Quoc Khanh;24TTH;7.5
+Bui Lan Anh;25KDL;10.0
